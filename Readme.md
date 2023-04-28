@@ -23,7 +23,8 @@ Things to remember with some example:
   * findAllById(Integer Id)
 
 3. DTO:
-* Response types
+* Transferring object from one layer to another
+  * Like setting value for the user in userService and using it in another service or layer
 
 4.Controller/Api:
 * RestController
