@@ -1,5 +1,6 @@
 package com.kishore.users.dto;
 
+import lombok.AllArgsConstructor;
 import lombok.Data;
 
 @Data
